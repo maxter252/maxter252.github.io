@@ -16,6 +16,10 @@ p {
     text-align: center;
   }
 
+  p:hover { 
+    background-color: rgb(140, 0, 255);
+  }
+
   body {
     background:  rgb(56, 56, 56);
     color:white;
